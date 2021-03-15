@@ -4,6 +4,10 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETED-<COLOR>.svg)](https://shields.io/)
 
+<p align="center">
+<img src = './images/github_header_sgT.png'>
+</p>
+
 [sgTuitions](https://t.me/sgtuitions) is a Telegram channel, focusing on the automation of matching tutors to tuition assignments via a simple Telegram [bot](https://t.me/sgtuitionsbot).
 
 ## Objective
